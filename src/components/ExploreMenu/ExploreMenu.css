@@ -1,0 +1,15 @@
+.pr .active{
+    border: 2px solid gray;
+    padding: 3px;
+    border-radius: 50%;
+}
+#cu{
+    cursor: pointer;
+    border-radius: 50%;
+    width: 7.5vw;
+    min-width: 80px;
+    transition: 0.2s;
+}
+.ex::-webkit-scrollbar{
+    display: none;
+}
